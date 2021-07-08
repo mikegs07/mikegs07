@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikegs07
+- 👋 Hi, I’m Mike
 - 👀 I’m interested in astrology and some asian stuffs.
 - 🌱 I’m currently learning new lenguages, now I've been learning Python.
 - 💞️ I’m looking to collaborate on NASA
